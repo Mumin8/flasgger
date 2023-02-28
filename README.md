@@ -87,6 +87,7 @@ then
 
 ```
 pip install flasgger
+
 ```
 
 or (dev version)
